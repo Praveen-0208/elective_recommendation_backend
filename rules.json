@@ -1,0 +1,340 @@
+{
+    "Agile Methodologies,C# and .NET Programming": {
+        "confidence": "55.00000000000001",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Agile Methodologies,Machine Learning Techniques": {
+        "confidence": "64.70588235294117",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Biochemistry,Disaster Management": {
+        "confidence": "63.63636363636363",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Biochemistry,Human Computer Interaction": {
+        "confidence": "57.89473684210527",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Biochemistry,Human Rights": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Biochemistry,Machine Learning Techniques": {
+        "confidence": "65.0",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Biochemistry,Natural Language Processing": {
+        "confidence": "35.714285714285715",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Biochemistry,Professional Ethics in Engineering": {
+        "confidence": "47.61904761904761",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "C# and .NET Programming,Green Computing": {
+        "confidence": "33.33333333333333",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "C# and .NET Programming,Hospital Waste Management": {
+        "confidence": "61.53846153846154",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "C# and .NET Programming,Information Retrieval Techniques": {
+        "confidence": "27.027027027027028",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "C# and .NET Programming,Machine Learning Techniques": {
+        "confidence": "41.66666666666667",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "C# and .NET Programming,Parallel Algorithms": {
+        "confidence": "34.375",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "C# and .NET Programming,Signals and Systems": {
+        "confidence": "57.89473684210527",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "C# and .NET Programming,Software Testing": {
+        "confidence": "66.66666666666666",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "Digital Signal Processing,Human Computer Interaction": {
+        "confidence": "50.0",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Digital Signal Processing,Machine Learning Techniques": {
+        "confidence": "57.14285714285714",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Human Computer Interaction,Geographic Information System": {
+        "confidence": "71.42857142857143",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Human Computer Interaction,Hospital Waste Management": {
+        "confidence": "62.5",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Human Computer Interaction,Human Rights": {
+        "confidence": "45.45454545454545",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Human Computer Interaction,Information Retrieval Techniques": {
+        "confidence": "35.294117647058826",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Human Computer Interaction,Intellectual Property Rights": {
+        "confidence": "61.111111111111114",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Human Computer Interaction,Machine Learning Techniques": {
+        "confidence": "44.44444444444444",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Human Computer Interaction,Microbiology": {
+        "confidence": "56.52173913043478",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Human Computer Interaction,Natural Language Processing": {
+        "confidence": "33.33333333333333",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Human Computer Interaction,Parallel Algorithms": {
+        "confidence": "31.428571428571427",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Human Computer Interaction,Professional Ethics in Engineering": {
+        "confidence": "32.35294117647059",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Human Computer Interaction,Soft Computing": {
+        "confidence": "43.47826086956522",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Human Rights,Green Building Design": {
+        "confidence": "62.5",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "Human Rights,Green Computing": {
+        "confidence": "36.666666666666664",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Human Rights,Hospital Waste Management": {
+        "confidence": "64.70588235294117",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Human Rights,Microbiology": {
+        "confidence": "47.82608695652174",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Human Rights,Software Testing": {
+        "confidence": "64.70588235294117",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Information Retrieval Techniques,C# and .NET Programming": {
+        "confidence": "29.72972972972973",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Information Retrieval Techniques,Disaster Management": {
+        "confidence": "37.03703703703704",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Information Retrieval Techniques,Human Rights": {
+        "confidence": "30.555555555555557",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "Information Retrieval Techniques,Machine Learning Techniques": {
+        "confidence": "28.57142857142857",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "Intellectual Property Rights,Disaster Management": {
+        "confidence": "57.89473684210527",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Intellectual Property Rights,Machine Learning Techniques": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Machine Learning Techniques,Disaster Management": {
+        "confidence": "52.63157894736842",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Machine Learning Techniques,Embedded Systems": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Machine Learning Techniques,Geographic Information System": {
+        "confidence": "55.55555555555556",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Machine Learning Techniques,Green Computing": {
+        "confidence": "36.36363636363637",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Machine Learning Techniques,Hospital Waste Management": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Machine Learning Techniques,Human Rights": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Machine Learning Techniques,Parallel Algorithms": {
+        "confidence": "27.77777777777778",
+        "recommendation": [
+            "Green Computing"
+        ]
+    },
+    "Machine Learning Techniques,Professional Ethics in Engineering": {
+        "confidence": "31.25",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Machine Learning Techniques,Sensors and Transducers": {
+        "confidence": "54.54545454545454",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Natural Language Processing,Disaster Management": {
+        "confidence": "30.303030303030305",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Natural Language Processing,Machine Learning Techniques": {
+        "confidence": "38.70967741935484",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Parallel Algorithms,Disaster Management": {
+        "confidence": "32.25806451612903",
+        "recommendation": [
+            "Professional Ethics in Engineering"
+        ]
+    },
+    "Professional Ethics in Engineering,Disaster Management": {
+        "confidence": "40.0",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Signals and Systems,Human Computer Interaction": {
+        "confidence": "58.82352941176471",
+        "recommendation": [
+            "Natural Language Processing"
+        ]
+    },
+    "Signals and Systems,Machine Learning Techniques": {
+        "confidence": "60.86956521739131",
+        "recommendation": [
+            "Information Retrieval Techniques"
+        ]
+    },
+    "Waste Water Management,Disaster Management": {
+        "confidence": "55.55555555555556",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    },
+    "Waste Water Management,Machine Learning Techniques": {
+        "confidence": "55.55555555555556",
+        "recommendation": [
+            "Parallel Algorithms"
+        ]
+    }
+}
+
+
