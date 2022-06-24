@@ -3,6 +3,8 @@ import itertools
 from itertools import combinations
 # from collections import Counter
 import json
+from os.path import dirname, join
+
 
 
 # csv_data = pd.read_csv("course_list.csv")
@@ -138,7 +140,8 @@ import json
 # result = # print(json.dumps(rules, indent=4, sort_keys=True))
 
 
-rules_json = open("rules.json")
+here = dirname(__file__)
+rules_json = open(join(here,"rules.json"))
 
 rules_data = json.load(rules_json)
 

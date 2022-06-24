@@ -1,5 +1,5 @@
 from flask import Flask, Response, request
-from recommend import make_recommendations
+from app.recommend import make_recommendations
 import json
 
 app = Flask(__name__)
